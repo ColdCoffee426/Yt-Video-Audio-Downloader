@@ -1,4 +1,5 @@
 pytube
+yt-dlp
 pillow
 requests
 tqdm
