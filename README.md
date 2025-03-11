@@ -37,18 +37,18 @@ pip install -r requirements.txt
 Enter the desired download directory:
 1) Custom path
 2) Downloads
-2
+
 Saving to /Users/YourName/Downloads
 Which Type do you want to download?
 1) Video
 2) Audio
-1
+
 Resolutions Available:
 1. 1080p
 2. 720p
 3. 480p
 Enter Resolution Index:
-1
+
 Downloading...
 Download complete! Saved in /Users/YourName/Downloads
 ```
